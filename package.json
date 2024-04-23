@@ -1,6 +1,6 @@
 {
   "name": "thalaswap-math",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "",
   "scripts": {
     "build": "tsup ./src --dts",
