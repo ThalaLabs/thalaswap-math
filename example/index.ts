@@ -3,7 +3,7 @@ import {
   calcInGivenOutWeighted,
   calcOutGivenInStable,
   calcOutGivenInWeighted,
-} from "thalaswap-math";
+} from "@thalalabs/thalaswap-math";
 
 // Calculate amount out given amount in:
 // A stable pool with three tokens having balances of [100, 200, 300],

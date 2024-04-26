@@ -2,9 +2,22 @@
 
 SDK to calculate swap amounts and pool price.
 
+# install
+
+```
+$ npm i @thalalabs/thalaswap-math
+```
+
 # example
 
 ```typescript
+import {
+  calcInGivenOutStable,
+  calcInGivenOutWeighted,
+  calcOutGivenInStable,
+  calcOutGivenInWeighted,
+} from "@thalalabs/thalaswap-math";
+
 // Calculate amount out given amount in:
 // A stable pool with three tokens having balances of [100, 200, 300],
 // The pool's amplification coefficient is 1.
