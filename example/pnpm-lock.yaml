@@ -1,10 +1,7 @@
 lockfileVersion: '6.0'
 
 dependencies:
-  thalaswap-math:
-    specifier: link:..
-    version: link:..
-  thalaswap-utils:
+  '@thalalabs/thalaswap-math':
     specifier: link:..
     version: link:..
 
