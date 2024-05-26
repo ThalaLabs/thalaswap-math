@@ -2,6 +2,10 @@
 
 SDK to calculate swap amounts and pool price.
 
+# Deprecation notice
+
+This repo is deprecated to prefer https://github.com/ThalaLabs/thala-sdk/tree/main/packages/thalaswap-math
+
 # install
 
 ```
